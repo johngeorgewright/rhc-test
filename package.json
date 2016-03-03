@@ -1,0 +1,23 @@
+{
+  "name": "rhc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngeorgewright/rhc-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngeorgewright/rhc-test/issues"
+  },
+  "homepage": "https://github.com/johngeorgewright/rhc-test#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
